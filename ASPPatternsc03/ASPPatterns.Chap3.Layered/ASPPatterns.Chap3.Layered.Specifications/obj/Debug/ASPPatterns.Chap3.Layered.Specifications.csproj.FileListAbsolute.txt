@@ -1,0 +1,22 @@
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\ASPPatterns.Chap3.Layered.Specifications.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\ASPPatterns.Chap3.Layered.Specifications.pdb
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\obj\Debug\ASPPatterns.Chap3.Layered.Specifications.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\obj\Debug\ASPPatterns.Chap3.Layered.Specifications.pdb
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\ASPPatterns.Chap3.Layered.Model.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\Machine.Specifications.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\Machine.Specifications.NUnit.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\nunit.framework.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\TestDriven.Framework.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\ASPPatterns.Chap3.Layered.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\obj\Debug\ASPPatterns.Chap3.Layered.Specifications.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\ASPPatterns.Chap3.Layered.Specifications.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\ASPPatterns.Chap3.Layered.Specifications.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\ASPPatterns.Chap3.Layered.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\Machine.Specifications.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\Machine.Specifications.NUnit.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\nunit.framework.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\TestDriven.Framework.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\bin\Debug\ASPPatterns.Chap3.Layered.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Specifications\obj\Debug\ASPPatterns.Chap3.Layered.Specifications.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\bin\Debug\ASPPatterns.Chap4.AnemicModel.Model.dll
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\bin\Debug\ASPPatterns.Chap4.AnemicModel.Model.pdb
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\obj\Debug\ASPPatterns.Chap4.AnemicModel.Model.dll
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\obj\Debug\ASPPatterns.Chap4.AnemicModel.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\bin\Debug\ASPPatterns.Chap4.AnemicModel.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\bin\Debug\ASPPatterns.Chap4.AnemicModel.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\obj\Debug\ASPPatterns.Chap4.AnemicModel.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.AnemicModel\ASPPatterns.Chap4.AnemicModel.Model\obj\Debug\ASPPatterns.Chap4.AnemicModel.Model.pdb

@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DependencyInjection\ASPPatterns.Chap5.DependencyInjection.Model\bin\Debug\ASPPatterns.Chap5.DependencyInjection.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DependencyInjection\ASPPatterns.Chap5.DependencyInjection.Model\bin\Debug\ASPPatterns.Chap5.DependencyInjection.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DependencyInjection\ASPPatterns.Chap5.DependencyInjection.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DependencyInjection\ASPPatterns.Chap5.DependencyInjection.Model\obj\Debug\ASPPatterns.Chap5.DependencyInjection.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DependencyInjection\ASPPatterns.Chap5.DependencyInjection.Model\obj\Debug\ASPPatterns.Chap5.DependencyInjection.Model.pdb

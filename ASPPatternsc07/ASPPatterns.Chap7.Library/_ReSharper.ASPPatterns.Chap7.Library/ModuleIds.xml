@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="1E60ED41-9734-497A-B636-7A6F7D4FB01F" ModuleId="ASPPatterns.Chap7.Library.UI.Web" />
+  <Module PersistentId="75E0A50D-090D-48C6-9A81-2AE702C7C197" ModuleId="ASPPatterns.Chap7.Library.Repository.EF" />
+  <Module PersistentId="EF80E679-2FEB-4568-834B-70D838FB3E62" ModuleId="ASPPatterns.Chap7.Library.Repository.NHibernate" />
+  <Module PersistentId="48F099D8-35C0-42A1-A892-23B6441F8A86" ModuleId="ASPPatterns.Chap7.Library.Services" />
+  <Module PersistentId="EFC1FA98-BAB6-45F6-B8E6-0FB3D0A8422B" ModuleId="ASPPatterns.Chap7.Library.Model" />
+  <Module PersistentId="5C97F267-90E3-4970-B639-5C34E1BFE25D" ModuleId="ASPPatterns.Chap7.Library.Infrastructure" />
+</Modules>

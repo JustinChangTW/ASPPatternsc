@@ -1,0 +1,7 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.StubRepository\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.StubRepository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.StubRepository\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.StubRepository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.StubRepository\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.StubRepository\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.StubRepository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.StubRepository\obj\Debug\ASPPatterns.Chap8.ASPNETMVC.StubRepository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.StubRepository\obj\Debug\ASPPatterns.Chap8.ASPNETMVC.StubRepository.pdb

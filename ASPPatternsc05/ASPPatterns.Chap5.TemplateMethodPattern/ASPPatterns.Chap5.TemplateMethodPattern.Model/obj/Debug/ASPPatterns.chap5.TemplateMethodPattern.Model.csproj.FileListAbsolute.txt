@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.TemplateMethodPattern\ASPPatterns.chap5.TemplateMethodPattern.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.TemplateMethodPattern\ASPPatterns.chap5.TemplateMethodPattern.Model\bin\Debug\ASPPatterns.Chap5.TemplateMethodPattern.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.TemplateMethodPattern\ASPPatterns.chap5.TemplateMethodPattern.Model\bin\Debug\ASPPatterns.Chap5.TemplateMethodPattern.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.TemplateMethodPattern\ASPPatterns.chap5.TemplateMethodPattern.Model\obj\Debug\ASPPatterns.Chap5.TemplateMethodPattern.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.TemplateMethodPattern\ASPPatterns.chap5.TemplateMethodPattern.Model\obj\Debug\ASPPatterns.Chap5.TemplateMethodPattern.Model.pdb

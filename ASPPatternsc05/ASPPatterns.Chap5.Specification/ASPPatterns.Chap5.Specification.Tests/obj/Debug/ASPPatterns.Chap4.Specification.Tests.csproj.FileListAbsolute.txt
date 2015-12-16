@@ -1,0 +1,7 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.Specification\ASPPatterns.Chap4.Specification.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.Specification\ASPPatterns.Chap4.Specification.Tests\bin\Debug\ASPPatterns.Chap4.Specification.Tests.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.Specification\ASPPatterns.Chap4.Specification.Tests\bin\Debug\ASPPatterns.Chap4.Specification.Tests.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.Specification\ASPPatterns.Chap4.Specification.Tests\bin\Debug\ASPPatterns.Chap4.Specification.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.Specification\ASPPatterns.Chap4.Specification.Tests\bin\Debug\ASPPatterns.Chap4.Specification.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.Specification\ASPPatterns.Chap4.Specification.Tests\obj\Debug\ASPPatterns.Chap4.Specification.Tests.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.Specification\ASPPatterns.Chap4.Specification.Tests\obj\Debug\ASPPatterns.Chap4.Specification.Tests.pdb

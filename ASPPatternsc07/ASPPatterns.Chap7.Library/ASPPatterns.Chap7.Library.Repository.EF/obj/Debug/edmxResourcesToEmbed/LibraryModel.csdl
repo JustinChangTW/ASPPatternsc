@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ASPPatterns.Chap7.Library.Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="LibraryEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BookTitles" EntityType="ASPPatterns.Chap7.Library.Model.BookTitle" />
+    <EntitySet Name="ABooks" EntityType="ASPPatterns.Chap7.Library.Model.Book" />
+    <EntitySet Name="Loans" EntityType="ASPPatterns.Chap7.Library.Model.Loan" />
+    <EntitySet Name="Members" EntityType="ASPPatterns.Chap7.Library.Model.Member" />
+    <AssociationSet Name="FK_Copies_Books" Association="ASPPatterns.Chap7.Library.Model.FK_Copies_Books">
+      <End Role="Book" EntitySet="BookTitles" />
+      <End Role="Copy" EntitySet="ABooks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Loans_Copies" Association="ASPPatterns.Chap7.Library.Model.FK_Loans_Copies">
+      <End Role="Copy" EntitySet="ABooks" />
+      <End Role="Loan" EntitySet="Loans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Loans_Members" Association="ASPPatterns.Chap7.Library.Model.FK_Loans_Members">
+      <End Role="Member" EntitySet="Members" />
+      <End Role="Loan" EntitySet="Loans" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="BookTitle">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Guid" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Title" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="ABook">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Guid" Name="Id" Nullable="false" />
+    <NavigationProperty Name="BookTitle" Relationship="ASPPatterns.Chap7.Library.Model.FK_Copies_Books" FromRole="Copy" ToRole="Book" />
+  </EntityType>
+  <EntityType Name="Loan">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Guid" Name="Id" Nullable="false" />
+    <Property Type="DateTime" Name="LoanDate" Nullable="false" />
+    <Property Type="DateTime" Name="ReturnDate" />
+    <Property Type="DateTime" Name="DateForReturn" Nullable="false" />
+    <NavigationProperty Name="Book" Relationship="ASPPatterns.Chap7.Library.Model.FK_Loans_Copies" FromRole="Loan" ToRole="Copy" />
+    <NavigationProperty Name="Member" Relationship="ASPPatterns.Chap7.Library.Model.FK_Loans_Members" FromRole="Loan" ToRole="Member" />
+  </EntityType>
+  <EntityType Name="Member">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Guid" Name="Id" Nullable="false" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Loans" Relationship="ASPPatterns.Chap7.Library.Model.FK_Loans_Members" FromRole="Member" ToRole="Loan" />
+  </EntityType>
+  <Association Name="FK_Copies_Books">
+    <End Type="ASPPatterns.Chap7.Library.Model.BookTitle" Role="Book" Multiplicity="1" />
+    <End Type="ASPPatterns.Chap7.Library.Model.ABook" Role="Copy" Multiplicity="*" />
+  </Association>
+  <Association Name="FK_Loans_Copies">
+    <End Type="ASPPatterns.Chap7.Library.Model.ABook" Role="Copy" Multiplicity="1" />
+    <End Type="ASPPatterns.Chap7.Library.Model.Loan" Role="Loan" Multiplicity="*" />
+  </Association>
+  <Association Name="FK_Loans_Members">
+    <End Type="ASPPatterns.Chap7.Library.Model.Member" Role="Member" Multiplicity="1" />
+    <End Type="ASPPatterns.Chap7.Library.Model.Loan" Role="Loan" Multiplicity="*" />
+  </Association>
+</Schema>

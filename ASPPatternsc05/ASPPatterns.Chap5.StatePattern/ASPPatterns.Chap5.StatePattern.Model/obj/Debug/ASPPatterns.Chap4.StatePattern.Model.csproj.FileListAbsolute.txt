@@ -1,0 +1,5 @@
+C:\Projects\ASPPatterns.Chap4.StatePattern\ASPPatterns.Chap4.StatePattern.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ASPPatterns.Chap4.StatePattern\ASPPatterns.Chap4.StatePattern.Model\bin\Debug\ASPPatterns.Chap4.StatePattern.Model.dll
+C:\Projects\ASPPatterns.Chap4.StatePattern\ASPPatterns.Chap4.StatePattern.Model\bin\Debug\ASPPatterns.Chap4.StatePattern.Model.pdb
+C:\Projects\ASPPatterns.Chap4.StatePattern\ASPPatterns.Chap4.StatePattern.Model\obj\Debug\ASPPatterns.Chap4.StatePattern.Model.dll
+C:\Projects\ASPPatterns.Chap4.StatePattern\ASPPatterns.Chap4.StatePattern.Model\obj\Debug\ASPPatterns.Chap4.StatePattern.Model.pdb

@@ -1,0 +1,55 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Controllers.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Services.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\StructureMap.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Services.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\obj\Debug\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Controllers\obj\Debug\Agathas.Storefront.Controllers.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Controllers.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Services.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\StructureMap.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Services.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\obj\Debug\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\obj\Debug\Agathas.Storefront.Controllers.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\AutoMapper.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Controllers.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Services.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\StructureMap.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\AutoMapper.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Services.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\obj\Debug\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Controllers\obj\Debug\Agathas.Storefront.Controllers.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Controllers.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Services.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\StructureMap.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\AutoMapper.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\bin\Debug\Agathas.Storefront.Services.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\obj\Debug\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\obj\Debug\Agathas.Storefront.Controllers.pdb

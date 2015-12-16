@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibraryModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="LibraryModelStoreContainer">
+    <EntitySet Name="Books" EntityType="LibraryModel.Store.Books" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Copies" EntityType="LibraryModel.Store.Copies" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Loans" EntityType="LibraryModel.Store.Loans" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Members" EntityType="LibraryModel.Store.Members" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Copies_Books" Association="LibraryModel.Store.FK_Copies_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Copies" EntitySet="Copies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Loans_Copies" Association="LibraryModel.Store.FK_Loans_Copies">
+      <End Role="Copies" EntitySet="Copies" />
+      <End Role="Loans" EntitySet="Loans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Loans_Members" Association="LibraryModel.Store.FK_Loans_Members">
+      <End Role="Members" EntitySet="Members" />
+      <End Role="Loans" EntitySet="Loans" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Books">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Copies">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="BookId" Type="uniqueidentifier" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Loans">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CopyId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="MemberId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="LoanDate" Type="datetime" Nullable="false" />
+    <Property Name="ReturnDate" Type="datetime" />
+    <Property Name="DateForReturn" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Members">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Copies_Books">
+    <End Role="Books" Type="LibraryModel.Store.Books" Multiplicity="1" />
+    <End Role="Copies" Type="LibraryModel.Store.Copies" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Copies">
+        <PropertyRef Name="BookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Loans_Copies">
+    <End Role="Copies" Type="LibraryModel.Store.Copies" Multiplicity="1" />
+    <End Role="Loans" Type="LibraryModel.Store.Loans" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Copies">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Loans">
+        <PropertyRef Name="CopyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Loans_Members">
+    <End Role="Members" Type="LibraryModel.Store.Members" Multiplicity="1" />
+    <End Role="Loans" Type="LibraryModel.Store.Loans" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Members">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Loans">
+        <PropertyRef Name="MemberId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

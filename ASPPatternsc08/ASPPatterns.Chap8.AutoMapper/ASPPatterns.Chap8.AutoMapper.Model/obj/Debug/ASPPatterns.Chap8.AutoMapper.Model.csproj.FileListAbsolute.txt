@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.AutoMapper\ASPPatterns.Chap8.AutoMapper.Model\bin\Debug\ASPPatterns.Chap8.AutoMapper.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.AutoMapper\ASPPatterns.Chap8.AutoMapper.Model\bin\Debug\ASPPatterns.Chap8.AutoMapper.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.AutoMapper\ASPPatterns.Chap8.AutoMapper.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.AutoMapper\ASPPatterns.Chap8.AutoMapper.Model\obj\Debug\ASPPatterns.Chap8.AutoMapper.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.AutoMapper\ASPPatterns.Chap8.AutoMapper.Model\obj\Debug\ASPPatterns.Chap8.AutoMapper.Model.pdb

@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Library\ASPPatterns.Chap7.Library.Repository.ADO\bin\Debug\ASPPatterns.Chap7.Library.Repository.ADO.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Library\ASPPatterns.Chap7.Library.Repository.ADO\bin\Debug\ASPPatterns.Chap7.Library.Repository.ADO.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Library\ASPPatterns.Chap7.Library.Repository.ADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Library\ASPPatterns.Chap7.Library.Repository.ADO\obj\Debug\ASPPatterns.Chap7.Library.Repository.ADO.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Library\ASPPatterns.Chap7.Library.Repository.ADO\obj\Debug\ASPPatterns.Chap7.Library.Repository.ADO.pdb

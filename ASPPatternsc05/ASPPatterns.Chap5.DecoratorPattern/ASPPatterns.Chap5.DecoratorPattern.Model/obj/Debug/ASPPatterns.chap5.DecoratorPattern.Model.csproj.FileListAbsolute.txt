@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DecoratorPattern\ASPPatterns.chap5.DecoratorPattern.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DecoratorPattern\ASPPatterns.chap5.DecoratorPattern.Model\obj\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DecoratorPattern\ASPPatterns.chap5.DecoratorPattern.Model\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DecoratorPattern\ASPPatterns.chap5.DecoratorPattern.Model\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.DecoratorPattern\ASPPatterns.chap5.DecoratorPattern.Model\obj\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.pdb

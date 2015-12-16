@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.AppService\bin\Debug\ASPPatterns.Chap9.AjaxTemplates.AppService.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.AppService\bin\Debug\ASPPatterns.Chap9.AjaxTemplates.AppService.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.AppService\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.AppService\obj\Debug\ASPPatterns.Chap9.AjaxTemplates.AppService.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.AppService\obj\Debug\ASPPatterns.Chap9.AjaxTemplates.AppService.pdb

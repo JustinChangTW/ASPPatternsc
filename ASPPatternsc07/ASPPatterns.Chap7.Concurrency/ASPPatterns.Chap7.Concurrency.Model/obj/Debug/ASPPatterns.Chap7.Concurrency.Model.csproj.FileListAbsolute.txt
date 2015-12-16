@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Concurrency\ASPPatterns.Chap7.Concurrency.Model\bin\Debug\ASPPatterns.Chap7.Concurrency.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Concurrency\ASPPatterns.Chap7.Concurrency.Model\bin\Debug\ASPPatterns.Chap7.Concurrency.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Concurrency\ASPPatterns.Chap7.Concurrency.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Concurrency\ASPPatterns.Chap7.Concurrency.Model\obj\Debug\ASPPatterns.Chap7.Concurrency.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.Concurrency\ASPPatterns.Chap7.Concurrency.Model\obj\Debug\ASPPatterns.Chap7.Concurrency.Model.pdb

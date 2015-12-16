@@ -1,0 +1,38 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.UI.Web.MVC.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.UI.Web.MVC.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Repository.NHibernate.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Services.Cache.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Services.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\StructureMap.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Controllers.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Services.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Repository.NHibernate.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Services.Cache.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\obj\Debug\Agathas.Storefront.UI.Web.MVC.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.UI.Web.MVC\obj\Debug\Agathas.Storefront.UI.Web.MVC.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.UI.Web.MVC.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.UI.Web.MVC.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Controllers.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Repository.NHibernate.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Services.Cache.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Services.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\StructureMap.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Controllers.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Repository.NHibernate.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Services.Cache.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\bin\Agathas.Storefront.Services.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\obj\Debug\Agathas.Storefront.UI.Web.MVC.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront - VS 2010\Agathas.Storefront.UI.Web.MVC\obj\Debug\Agathas.Storefront.UI.Web.MVC.pdb

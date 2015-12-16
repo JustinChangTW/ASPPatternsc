@@ -1,0 +1,7 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.StubRepository\bin\Debug\ASPPatterns.Chap8.CastleMonoRail.StubRepository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.StubRepository\bin\Debug\ASPPatterns.Chap8.CastleMonoRail.StubRepository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.StubRepository\bin\Debug\ASPPatterns.Chap8.CastleMonoRail.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.StubRepository\bin\Debug\ASPPatterns.Chap8.CastleMonoRail.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.StubRepository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.StubRepository\obj\Debug\ASPPatterns.Chap8.CastleMonoRail.StubRepository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.StubRepository\obj\Debug\ASPPatterns.Chap8.CastleMonoRail.StubRepository.pdb

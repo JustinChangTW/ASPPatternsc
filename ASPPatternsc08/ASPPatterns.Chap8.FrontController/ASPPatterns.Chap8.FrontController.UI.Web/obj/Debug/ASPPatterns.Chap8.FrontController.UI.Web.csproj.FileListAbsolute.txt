@@ -1,0 +1,21 @@
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.UI.Web.dll
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.UI.Web.pdb
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.Controller.dll
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.Model.dll
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.Model.pdb
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.Controller.pdb
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\obj\Debug\ASPPatterns.Chap8.FrontController.UI.Web.dll
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\obj\Debug\ASPPatterns.Chap8.FrontController.UI.Web.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.UI.Web.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.UI.Web.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.Controller.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\StructureMap.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.StubRepository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.Controller.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.StubRepository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\bin\ASPPatterns.Chap8.FrontController.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\obj\Debug\ASPPatterns.Chap8.FrontController.UI.Web.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.FrontController\ASPPatterns.Chap8.FrontController.UI.Web\obj\Debug\ASPPatterns.Chap8.FrontController.UI.Web.pdb

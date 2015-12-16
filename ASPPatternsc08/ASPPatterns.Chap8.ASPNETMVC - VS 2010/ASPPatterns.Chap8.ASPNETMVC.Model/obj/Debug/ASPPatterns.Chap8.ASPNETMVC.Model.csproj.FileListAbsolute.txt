@@ -1,0 +1,10 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.Model\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.Model\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.Model\obj\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.Model\obj\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC - VS 2010\ASPPatterns.Chap8.ASPNETMVC.Model\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC - VS 2010\ASPPatterns.Chap8.ASPNETMVC.Model\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC - VS 2010\ASPPatterns.Chap8.ASPNETMVC.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC - VS 2010\ASPPatterns.Chap8.ASPNETMVC.Model\obj\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC - VS 2010\ASPPatterns.Chap8.ASPNETMVC.Model\obj\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PeriodicRefresh\ASPPatterns.Chap9.PeriodicRefresh.Repository\bin\Debug\ASPPatterns.Chap9.PeriodicRefresh.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PeriodicRefresh\ASPPatterns.Chap9.PeriodicRefresh.Repository\bin\Debug\ASPPatterns.Chap9.PeriodicRefresh.Repository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PeriodicRefresh\ASPPatterns.Chap9.PeriodicRefresh.Repository\bin\Debug\ASPPatterns.Chap9.PeriodicRefresh.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PeriodicRefresh\ASPPatterns.Chap9.PeriodicRefresh.Repository\bin\Debug\ASPPatterns.Chap9.PeriodicRefresh.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PeriodicRefresh\ASPPatterns.Chap9.PeriodicRefresh.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PeriodicRefresh\ASPPatterns.Chap9.PeriodicRefresh.Repository\obj\Debug\ASPPatterns.Chap9.PeriodicRefresh.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PeriodicRefresh\ASPPatterns.Chap9.PeriodicRefresh.Repository\obj\Debug\ASPPatterns.Chap9.PeriodicRefresh.Repository.pdb

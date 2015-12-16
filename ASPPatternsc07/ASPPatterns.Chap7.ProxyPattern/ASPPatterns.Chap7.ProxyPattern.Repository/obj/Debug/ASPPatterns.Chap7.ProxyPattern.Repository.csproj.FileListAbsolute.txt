@@ -1,0 +1,7 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.ProxyPattern\ASPPatterns.Chap7.ProxyPattern.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.ProxyPattern\ASPPatterns.Chap7.ProxyPattern.Repository\bin\Debug\ASPPatterns.Chap7.ProxyPattern.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.ProxyPattern\ASPPatterns.Chap7.ProxyPattern.Repository\bin\Debug\ASPPatterns.Chap7.ProxyPattern.Repository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.ProxyPattern\ASPPatterns.Chap7.ProxyPattern.Repository\bin\Debug\ASPPatterns.Chap7.ProxyPattern.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.ProxyPattern\ASPPatterns.Chap7.ProxyPattern.Repository\bin\Debug\ASPPatterns.Chap7.ProxyPattern.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.ProxyPattern\ASPPatterns.Chap7.ProxyPattern.Repository\obj\Debug\ASPPatterns.Chap7.ProxyPattern.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.ProxyPattern\ASPPatterns.Chap7.ProxyPattern.Repository\obj\Debug\ASPPatterns.Chap7.ProxyPattern.Repository.pdb

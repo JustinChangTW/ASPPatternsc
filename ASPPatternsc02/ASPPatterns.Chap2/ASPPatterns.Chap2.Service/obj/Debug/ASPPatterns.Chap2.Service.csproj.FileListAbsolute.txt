@@ -1,0 +1,10 @@
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\bin\Debug\ASPPatterns.Chap2.Service.dll
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\bin\Debug\ASPPatterns.Chap2.Service.pdb
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.dll
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\bin\Debug\ASPPatterns.Chap2.Service.dll
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\bin\Debug\ASPPatterns.Chap2.Service.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.dll
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.pdb

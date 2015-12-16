@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.UI.WebForms\bin\ASPPatterns.Chap8.CastleMonoRail.UI.WebForms.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.UI.WebForms\bin\ASPPatterns.Chap8.CastleMonoRail.UI.WebForms.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.UI.WebForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.UI.WebForms\obj\Debug\ASPPatterns.Chap8.CastleMonoRail.UI.WebForms.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.CastleMonoRail\ASPPatterns.Chap8.CastleMonoRail.UI.WebForms\obj\Debug\ASPPatterns.Chap8.CastleMonoRail.UI.WebForms.pdb

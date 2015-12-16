@@ -1,0 +1,7 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.StubRepository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.StubRepository\bin\Debug\ASPPatterns.Chap9.AjaxTemplates.StubRepository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.StubRepository\bin\Debug\ASPPatterns.Chap9.AjaxTemplates.StubRepository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.StubRepository\bin\Debug\ASPPatterns.Chap9.AjaxTemplates.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.StubRepository\bin\Debug\ASPPatterns.Chap9.AjaxTemplates.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.StubRepository\obj\Debug\ASPPatterns.Chap9.AjaxTemplates.StubRepository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.AjaxTemplates\ASPPatterns.Chap9.AjaxTemplates.StubRepository\obj\Debug\ASPPatterns.Chap9.AjaxTemplates.StubRepository.pdb

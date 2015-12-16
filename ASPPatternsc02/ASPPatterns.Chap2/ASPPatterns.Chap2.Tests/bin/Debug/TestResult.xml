@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Tests.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2009-11-03" time="14:12:17">
+  <environment nunit-version="2.5.2.9222" clr-version="2.0.50727.3082" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug" machine-name="WIGGLE-DELL80" user="Scott" user-domain="WIGGLEDOMAIN" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite name="C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Tests.dll" executed="True" success="True" time="0.078" asserts="0">
+    <results>
+      <test-suite name="ASPPatterns" executed="True" success="True" time="0.078" asserts="0">
+        <results>
+          <test-suite name="Chap2" executed="True" success="True" time="0.078" asserts="0">
+            <results>
+              <test-suite name="Tests" executed="True" success="True" time="0.078" asserts="0">
+                <results>
+                  <test-suite name="ProdictServiceTests" executed="True" success="True" time="0.078" asserts="0">
+                    <results>
+                      <test-case name="ASPPatterns.Chap2.Tests.ProdictServiceTests.A_Null_Object_Caching_Adapter_Will_Prevent_Any_Data_Caching" executed="True" success="True" time="0.016" asserts="2" />
+                      <test-case name="ASPPatterns.Chap2.Tests.ProdictServiceTests.A_ProductService_Should_Retrieve_From_The_Cache_The_Second_Time_The_Method_Is_Called_With_The_Same_Argumengts" executed="True" success="True" time="0.000" asserts="2" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

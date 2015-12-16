@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.InterfaceSegregation\ASPPatterns.Chap5.InterfaceSegregation\bin\Debug\ASPPatterns.Chap5.InterfaceSegregation.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.InterfaceSegregation\ASPPatterns.Chap5.InterfaceSegregation\bin\Debug\ASPPatterns.Chap5.InterfaceSegregation.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.InterfaceSegregation\ASPPatterns.Chap5.InterfaceSegregation\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.InterfaceSegregation\ASPPatterns.Chap5.InterfaceSegregation\obj\Debug\ASPPatterns.Chap5.InterfaceSegregation.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.InterfaceSegregation\ASPPatterns.Chap5.InterfaceSegregation\obj\Debug\ASPPatterns.Chap5.InterfaceSegregation.Model.pdb

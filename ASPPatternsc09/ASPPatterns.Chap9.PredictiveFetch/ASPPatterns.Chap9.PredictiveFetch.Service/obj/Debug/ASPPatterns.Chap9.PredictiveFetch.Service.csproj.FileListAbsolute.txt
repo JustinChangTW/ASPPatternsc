@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PredictiveFetch\ASPPatterns.Chap9.PredictiveFetch.Service\bin\ASPPatterns.Chap9.PredictiveFetch.Service.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PredictiveFetch\ASPPatterns.Chap9.PredictiveFetch.Service\bin\ASPPatterns.Chap9.PredictiveFetch.Service.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PredictiveFetch\ASPPatterns.Chap9.PredictiveFetch.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PredictiveFetch\ASPPatterns.Chap9.PredictiveFetch.Service\obj\Debug\ASPPatterns.Chap9.PredictiveFetch.Service.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap9.PredictiveFetch\ASPPatterns.Chap9.PredictiveFetch.Service\obj\Debug\ASPPatterns.Chap9.PredictiveFetch.Service.pdb

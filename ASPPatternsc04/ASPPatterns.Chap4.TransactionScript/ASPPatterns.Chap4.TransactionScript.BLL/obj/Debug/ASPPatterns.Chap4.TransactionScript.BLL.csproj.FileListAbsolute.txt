@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.TransactionScript\ASPPatterns.Chap4.TransactionScript.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.TransactionScript\ASPPatterns.Chap4.TransactionScript.BLL\bin\Debug\ASPPatterns.Chap4.TransactionScript.BLL.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.TransactionScript\ASPPatterns.Chap4.TransactionScript.BLL\bin\Debug\ASPPatterns.Chap4.TransactionScript.BLL.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.TransactionScript\ASPPatterns.Chap4.TransactionScript.BLL\obj\Debug\ASPPatterns.Chap4.TransactionScript.BLL.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.TransactionScript\ASPPatterns.Chap4.TransactionScript.BLL\obj\Debug\ASPPatterns.Chap4.TransactionScript.BLL.pdb

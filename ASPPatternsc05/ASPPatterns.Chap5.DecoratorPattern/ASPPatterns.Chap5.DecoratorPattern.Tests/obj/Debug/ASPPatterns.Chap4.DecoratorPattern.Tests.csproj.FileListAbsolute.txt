@@ -1,0 +1,8 @@
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Tests\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Tests.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Tests\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Tests.pdb
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Tests\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Tests\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.pdb
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Tests\obj\Debug\ASPPatterns.Chap4.DecoratorPattern.Tests.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Tests\obj\Debug\ASPPatterns.Chap4.DecoratorPattern.Tests.pdb

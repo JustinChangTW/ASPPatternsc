@@ -1,0 +1,5 @@
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Model\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Model\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.pdb
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Model\obj\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Model\obj\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.pdb

@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.MVP\ASPPatterns.Chap8.MVP.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.MVP\ASPPatterns.Chap8.MVP.Model\bin\Debug\ASPPatterns.Chap8.MVP.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.MVP\ASPPatterns.Chap8.MVP.Model\bin\Debug\ASPPatterns.Chap8.MVP.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.MVP\ASPPatterns.Chap8.MVP.Model\obj\Debug\ASPPatterns.Chap8.MVP.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.MVP\ASPPatterns.Chap8.MVP.Model\obj\Debug\ASPPatterns.Chap8.MVP.Model.pdb

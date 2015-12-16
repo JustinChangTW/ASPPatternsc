@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.SOA\ASPPatterns.Chap6.SOA.EventTickets.DataContract\bin\Debug\ASPPatterns.Chap6.SOA.EventTickets.DataContract.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.SOA\ASPPatterns.Chap6.SOA.EventTickets.DataContract\bin\Debug\ASPPatterns.Chap6.SOA.EventTickets.DataContract.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.SOA\ASPPatterns.Chap6.SOA.EventTickets.DataContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.SOA\ASPPatterns.Chap6.SOA.EventTickets.DataContract\obj\Debug\ASPPatterns.Chap6.SOA.EventTickets.DataContract.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.SOA\ASPPatterns.Chap6.SOA.EventTickets.DataContract\obj\Debug\ASPPatterns.Chap6.SOA.EventTickets.DataContract.pdb

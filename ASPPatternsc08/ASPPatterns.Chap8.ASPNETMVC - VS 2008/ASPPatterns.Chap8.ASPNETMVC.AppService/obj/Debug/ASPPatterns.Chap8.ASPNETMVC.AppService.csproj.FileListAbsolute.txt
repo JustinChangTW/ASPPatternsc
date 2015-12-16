@@ -1,0 +1,7 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.AppService\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.AppService.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.AppService\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.AppService.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.AppService\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.AppService\bin\Debug\ASPPatterns.Chap8.ASPNETMVC.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.AppService\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.AppService\obj\Debug\ASPPatterns.Chap8.ASPNETMVC.AppService.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.ASPNETMVC\ASPPatterns.Chap8.ASPNETMVC.AppService\obj\Debug\ASPPatterns.Chap8.ASPNETMVC.AppService.pdb

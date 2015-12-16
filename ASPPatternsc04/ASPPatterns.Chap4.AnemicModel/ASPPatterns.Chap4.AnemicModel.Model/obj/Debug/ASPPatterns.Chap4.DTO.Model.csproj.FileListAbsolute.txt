@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\bin\Debug\ASPPatterns.Chap4.DTO.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\bin\Debug\ASPPatterns.Chap4.DTO.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\obj\Debug\ASPPatterns.Chap4.DTO.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\obj\Debug\ASPPatterns.Chap4.DTO.Model.pdb

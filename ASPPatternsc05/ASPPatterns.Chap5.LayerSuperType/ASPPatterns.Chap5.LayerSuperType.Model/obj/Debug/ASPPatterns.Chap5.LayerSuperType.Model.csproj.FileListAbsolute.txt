@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LayerSuperType\ASPPatterns.Chap5.LayerSuperType.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LayerSuperType\ASPPatterns.Chap5.LayerSuperType.Model\bin\Debug\ASPPatterns.Chap5.LayerSuperType.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LayerSuperType\ASPPatterns.Chap5.LayerSuperType.Model\bin\Debug\ASPPatterns.Chap5.LayerSuperType.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LayerSuperType\ASPPatterns.Chap5.LayerSuperType.Model\obj\Debug\ASPPatterns.Chap5.LayerSuperType.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LayerSuperType\ASPPatterns.Chap5.LayerSuperType.Model\obj\Debug\ASPPatterns.Chap5.LayerSuperType.Model.pdb

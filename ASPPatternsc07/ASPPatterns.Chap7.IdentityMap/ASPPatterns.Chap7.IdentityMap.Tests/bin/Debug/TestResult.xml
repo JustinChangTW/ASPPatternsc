@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.IdentityMap\ASPPatterns.Chap7.IdentityMap.Tests\bin\Debug\ASPPatterns.Chap7.IdentityMap.Tests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-03-06" time="17:47:18">
+  <environment nunit-version="2.5.2.9222" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.2\bin\net-2.0" machine-name="SCOTTDELL-PC" user="Scott" user-domain="ScottDell-PC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite name="C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap7.IdentityMap\ASPPatterns.Chap7.IdentityMap.Tests\bin\Debug\ASPPatterns.Chap7.IdentityMap.Tests.dll" executed="True" success="True" time="0.107" asserts="0">
+    <results>
+      <test-suite name="ASPPatterns" executed="True" success="True" time="0.095" asserts="0">
+        <results>
+          <test-suite name="Chap7" executed="True" success="True" time="0.093" asserts="0">
+            <results>
+              <test-suite name="IdentityMap" executed="True" success="True" time="0.092" asserts="0">
+                <results>
+                  <test-suite name="Tests" executed="True" success="True" time="0.090" asserts="0">
+                    <results>
+                      <test-suite name="EmployeeRepositoryTest" executed="True" success="True" time="0.088" asserts="0">
+                        <results>
+                          <test-case name="ASPPatterns.Chap7.IdentityMap.Tests.EmployeeRepositoryTest.The_Identity_Map_Will" executed="True" success="True" time="0.065" asserts="2" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

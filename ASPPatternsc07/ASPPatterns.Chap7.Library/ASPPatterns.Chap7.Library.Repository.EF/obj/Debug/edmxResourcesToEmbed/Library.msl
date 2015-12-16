@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LibraryModelStoreContainer" CdmEntityContainer="LibraryEntities">
+    <EntitySetMapping Name="BookTitles">
+      <EntityTypeMapping TypeName="ASPPatterns.Chap7.Library.Model.BookTitle">
+        <MappingFragment StoreEntitySet="t_Books">
+          <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="ASPPatterns.Chap7.Library.Model.Book">
+        <MappingFragment StoreEntitySet="t_Copies">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Loans">
+      <EntityTypeMapping TypeName="ASPPatterns.Chap7.Library.Model.Loan">
+        <MappingFragment StoreEntitySet="t_Loans">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="LoanDate" ColumnName="LoanDate" />
+          <ScalarProperty Name="ReturnDate" ColumnName="ReturnDate" />
+          <ScalarProperty Name="DateForReturn" ColumnName="DateForReturn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Members">
+      <EntityTypeMapping TypeName="ASPPatterns.Chap7.Library.Model.Member">
+        <MappingFragment StoreEntitySet="t_Members">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_t_Copies_t_Books" TypeName="ASPPatterns.Chap7.Library.Model.FK_t_Copies_t_Books" StoreEntitySet="t_Copies">
+      <EndProperty Name="t_Books">
+        <ScalarProperty Name="ISBN" ColumnName="BookISBN" />
+      </EndProperty>
+      <EndProperty Name="t_Copies">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+      <Condition ColumnName="BookISBN" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Loans_Copies" TypeName="ASPPatterns.Chap7.Library.Model.FK_Loans_Copies" StoreEntitySet="t_Loans">
+      <EndProperty Name="t_Copies">
+        <ScalarProperty Name="Id" ColumnName="CopyId" />
+      </EndProperty>
+      <EndProperty Name="t_Loans">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_t_Copies_t_Members" TypeName="ASPPatterns.Chap7.Library.Model.FK_t_Copies_t_Members" StoreEntitySet="t_Copies">
+      <EndProperty Name="t_Members">
+        <ScalarProperty Name="Id" ColumnName="MemberId" />
+      </EndProperty>
+      <EndProperty Name="t_Copies">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+      <Condition ColumnName="MemberId" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Loans_Members" TypeName="ASPPatterns.Chap7.Library.Model.FK_Loans_Members" StoreEntitySet="t_Loans">
+      <EndProperty Name="t_Members">
+        <ScalarProperty Name="Id" ColumnName="MemberId" />
+      </EndProperty>
+      <EndProperty Name="t_Loans">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

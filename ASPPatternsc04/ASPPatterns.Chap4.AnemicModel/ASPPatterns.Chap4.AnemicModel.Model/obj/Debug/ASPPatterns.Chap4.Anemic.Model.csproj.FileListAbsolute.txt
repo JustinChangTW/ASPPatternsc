@@ -1,0 +1,5 @@
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\bin\Debug\ASPPatterns.Chap4.Anemic.Model.dll
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\bin\Debug\ASPPatterns.Chap4.Anemic.Model.pdb
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\obj\Debug\ASPPatterns.Chap4.Anemic.Model.dll
+C:\Documents and Settings\scott\Desktop\ASPPatterns.Chap4.DTO\ASPPatterns.Chap4.DTO.Model\obj\Debug\ASPPatterns.Chap4.Anemic.Model.pdb

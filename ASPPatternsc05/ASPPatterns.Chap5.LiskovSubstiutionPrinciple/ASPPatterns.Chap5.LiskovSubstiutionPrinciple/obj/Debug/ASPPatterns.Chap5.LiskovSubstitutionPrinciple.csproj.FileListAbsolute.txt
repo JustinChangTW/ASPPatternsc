@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\bin\Debug\ASPPatterns.Chap5.LiskovSubstitutionPrinciple.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\bin\Debug\ASPPatterns.Chap5.LiskovSubstitutionPrinciple.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\obj\Debug\ASPPatterns.Chap5.LiskovSubstitutionPrinciple.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\ASPPatterns.Chap5.LiskovSubstiutionPrinciple\obj\Debug\ASPPatterns.Chap5.LiskovSubstitutionPrinciple.pdb

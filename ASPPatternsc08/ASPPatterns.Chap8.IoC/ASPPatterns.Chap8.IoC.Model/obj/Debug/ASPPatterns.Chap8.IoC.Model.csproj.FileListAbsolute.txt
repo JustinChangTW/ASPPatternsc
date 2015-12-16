@@ -1,0 +1,5 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.IoC\ASPPatterns.Chap8.IoC.Model\bin\Debug\ASPPatterns.Chap8.IoC.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.IoC\ASPPatterns.Chap8.IoC.Model\bin\Debug\ASPPatterns.Chap8.IoC.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.IoC\ASPPatterns.Chap8.IoC.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.IoC\ASPPatterns.Chap8.IoC.Model\obj\Debug\ASPPatterns.Chap8.IoC.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap8.IoC\ASPPatterns.Chap8.IoC.Model\obj\Debug\ASPPatterns.Chap8.IoC.Model.pdb

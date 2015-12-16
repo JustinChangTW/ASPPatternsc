@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibraryModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="LibraryModelStoreContainer">
+    <EntitySet Name="t_Books" EntityType="LibraryModel.Store.t_Books" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="t_Copies" EntityType="LibraryModel.Store.t_Copies" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="t_Loans" EntityType="LibraryModel.Store.t_Loans" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="t_Members" EntityType="LibraryModel.Store.t_Members" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Loans_Copies" Association="LibraryModel.Store.FK_Loans_Copies">
+      <End Role="t_Copies" EntitySet="t_Copies" />
+      <End Role="t_Loans" EntitySet="t_Loans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Loans_Members" Association="LibraryModel.Store.FK_Loans_Members">
+      <End Role="t_Members" EntitySet="t_Members" />
+      <End Role="t_Loans" EntitySet="t_Loans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_t_Copies_t_Books" Association="LibraryModel.Store.FK_t_Copies_t_Books">
+      <End Role="t_Books" EntitySet="t_Books" />
+      <End Role="t_Copies" EntitySet="t_Copies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_t_Copies_t_Members" Association="LibraryModel.Store.FK_t_Copies_t_Members">
+      <End Role="t_Members" EntitySet="t_Members" />
+      <End Role="t_Copies" EntitySet="t_Copies" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="t_Books">
+    <Key>
+      <PropertyRef Name="ISBN" />
+    </Key>
+    <Property Name="ISBN" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Title" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="t_Copies">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="MemberId" Type="uniqueidentifier" />
+    <Property Name="BookISBN" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="t_Loans">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CopyId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="MemberId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="LoanDate" Type="datetime" Nullable="false" />
+    <Property Name="ReturnDate" Type="datetime" />
+    <Property Name="DateForReturn" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="t_Members">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Loans_Copies">
+    <End Role="t_Copies" Type="LibraryModel.Store.t_Copies" Multiplicity="1" />
+    <End Role="t_Loans" Type="LibraryModel.Store.t_Loans" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="t_Copies">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="t_Loans">
+        <PropertyRef Name="CopyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Loans_Members">
+    <End Role="t_Members" Type="LibraryModel.Store.t_Members" Multiplicity="1" />
+    <End Role="t_Loans" Type="LibraryModel.Store.t_Loans" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="t_Members">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="t_Loans">
+        <PropertyRef Name="MemberId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_t_Copies_t_Books">
+    <End Role="t_Books" Type="LibraryModel.Store.t_Books" Multiplicity="0..1" />
+    <End Role="t_Copies" Type="LibraryModel.Store.t_Copies" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="t_Books">
+        <PropertyRef Name="ISBN" />
+      </Principal>
+      <Dependent Role="t_Copies">
+        <PropertyRef Name="BookISBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_t_Copies_t_Members">
+    <End Role="t_Members" Type="LibraryModel.Store.t_Members" Multiplicity="0..1" />
+    <End Role="t_Copies" Type="LibraryModel.Store.t_Copies" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="t_Members">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="t_Copies">
+        <PropertyRef Name="MemberId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

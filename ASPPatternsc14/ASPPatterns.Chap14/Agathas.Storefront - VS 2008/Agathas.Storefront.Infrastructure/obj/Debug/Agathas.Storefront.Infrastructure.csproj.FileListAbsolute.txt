@@ -1,0 +1,38 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap10\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap11\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap12\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap13\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap13\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap13\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap13\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap13\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap13\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront\Agathas.Storefront.Infrastructure\bin\Debug\StructureMap.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront - VS 2008\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront - VS 2008\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront - VS 2008\Agathas.Storefront.Infrastructure\bin\Debug\log4net.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront - VS 2008\Agathas.Storefront.Infrastructure\bin\Debug\StructureMap.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront - VS 2008\Agathas.Storefront.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront - VS 2008\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap14\Agathas.Storefront - VS 2008\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.pdb

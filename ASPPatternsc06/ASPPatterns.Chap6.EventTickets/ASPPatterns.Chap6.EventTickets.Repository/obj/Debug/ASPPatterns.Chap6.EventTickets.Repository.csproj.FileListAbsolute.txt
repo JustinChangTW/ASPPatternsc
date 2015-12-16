@@ -1,0 +1,7 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.EventTickets\ASPPatterns.Chap6.EventTickets.Repository\bin\Debug\ASPPatterns.Chap6.EventTickets.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.EventTickets\ASPPatterns.Chap6.EventTickets.Repository\bin\Debug\ASPPatterns.Chap6.EventTickets.Repository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.EventTickets\ASPPatterns.Chap6.EventTickets.Repository\bin\Debug\ASPPatterns.Chap6.EventTickets.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.EventTickets\ASPPatterns.Chap6.EventTickets.Repository\bin\Debug\ASPPatterns.Chap6.EventTickets.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.EventTickets\ASPPatterns.Chap6.EventTickets.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.EventTickets\ASPPatterns.Chap6.EventTickets.Repository\obj\Debug\ASPPatterns.Chap6.EventTickets.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap6.EventTickets\ASPPatterns.Chap6.EventTickets.Repository\obj\Debug\ASPPatterns.Chap6.EventTickets.Repository.pdb

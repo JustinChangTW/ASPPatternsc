@@ -1,0 +1,16 @@
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Tests.dll
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Tests.pdb
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Service.dll
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Service.pdb
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\obj\Debug\ASPPatterns.Chap2.Tests.dll
+C:\Projects\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\obj\Debug\ASPPatterns.Chap2.Tests.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Tests.dll
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Tests.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Service.dll
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\bin\Debug\ASPPatterns.Chap2.Service.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\obj\Debug\ASPPatterns.Chap2.Tests.dll
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 02 - Dissecting the Patterns Pattern\ASPPatterns.Chap2\ASPPatterns.Chap2.Tests\obj\Debug\ASPPatterns.Chap2.Tests.pdb

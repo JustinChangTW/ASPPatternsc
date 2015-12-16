@@ -1,0 +1,11 @@
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Specifications.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Specifications.pdb
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\bin\Debug\Machine.Specifications.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\bin\Debug\Machine.Specifications.NUnit.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\bin\Debug\TestDriven.Framework.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\bin\Debug\nunit.framework.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\bin\Debug\ASPPatterns.Chap4.DecoratorPattern.Model.pdb
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\obj\Debug\ASPPatterns.Chap4.DecoratorPattern.Specifications.dll
+C:\Projects\ASPPatterns.Chap4.DecoratorPattern\ASPPatterns.Chap4.DecoratorPattern.Specifications\obj\Debug\ASPPatterns.Chap4.DecoratorPattern.Specifications.pdb

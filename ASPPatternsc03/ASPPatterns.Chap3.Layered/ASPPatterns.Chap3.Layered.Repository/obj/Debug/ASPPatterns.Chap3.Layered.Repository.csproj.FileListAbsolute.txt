@@ -1,0 +1,24 @@
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.dll.config
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.pdb
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Model.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Model.pdb
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ASPPatterns.Chap3.Layered.Repository.dll
+C:\Projects\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ASPPatterns.Chap3.Layered.Repository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 03 - Layering Your Application and separating your concerns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.dll.config
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 03 - Layering Your Application and separating your concerns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 03 - Layering Your Application and separating your concerns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 03 - Layering Your Application and separating your concerns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 03 - Layering Your Application and separating your concerns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 03 - Layering Your Application and separating your concerns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 03 - Layering Your Application and separating your concerns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ASPPatterns.Chap3.Layered.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\Chapter 03 - Layering Your Application and separating your concerns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ASPPatterns.Chap3.Layered.Repository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ASPPatterns.Chap3.Layered.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.dll.config
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.Layered\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ASPPatterns.Chap3.Layered.Repository.pdb

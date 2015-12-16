@@ -1,0 +1,7 @@
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.LayerSuperType\ASPPatterns.Chap4.LayerSuperType.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.LayerSuperType\ASPPatterns.Chap4.LayerSuperType.Tests\bin\Debug\ASPPatterns.Chap4.LayerSuperType.Tests.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.LayerSuperType\ASPPatterns.Chap4.LayerSuperType.Tests\bin\Debug\ASPPatterns.Chap4.LayerSuperType.Tests.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.LayerSuperType\ASPPatterns.Chap4.LayerSuperType.Tests\bin\Debug\ASPPatterns.Chap4.LayerSuperType.Model.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.LayerSuperType\ASPPatterns.Chap4.LayerSuperType.Tests\bin\Debug\ASPPatterns.Chap4.LayerSuperType.Model.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.LayerSuperType\ASPPatterns.Chap4.LayerSuperType.Tests\obj\Debug\ASPPatterns.Chap4.LayerSuperType.Tests.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.LayerSuperType\ASPPatterns.Chap4.LayerSuperType.Tests\obj\Debug\ASPPatterns.Chap4.LayerSuperType.Tests.pdb
