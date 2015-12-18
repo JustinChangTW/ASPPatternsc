@@ -109,10 +109,5 @@ namespace ASPPatterns.Chap4.DomainModel.UI.Web
             DisplaySelectedAccount();
             
         }
-
-        protected void btnWithdrawal_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

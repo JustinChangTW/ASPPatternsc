@@ -5,3 +5,10 @@ C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.DomainModel\ASPPatter
 C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ResolveAssemblyReference.cache
 C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.dll
 C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.pdb
+C:\justin\ASPPatternsc\ASPPatternsc04\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Repository.dll
+C:\justin\ASPPatternsc\ASPPatternsc04\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Repository.pdb
+C:\justin\ASPPatternsc\ASPPatternsc04\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.dll
+C:\justin\ASPPatternsc\ASPPatternsc04\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.pdb
+C:\justin\ASPPatternsc\ASPPatternsc04\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.csprojResolveAssemblyReference.cache
+C:\justin\ASPPatternsc\ASPPatternsc04\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.dll
+C:\justin\ASPPatternsc\ASPPatternsc04\ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.pdb
